@@ -3,5 +3,3 @@ yarn.lock
 ormconfig.json
 auth.json
 tsconfig.json
-
-src/config/auth.json
